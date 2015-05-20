@@ -4,7 +4,7 @@ TweetSong is a fun script that use [LittleBits](http://littlebits.cc) to play a 
 
 ##### **Feel free to mention us on [Twitter](https://twitter.com/intent/tweet?text=@unknownsfrance%20), to start music in the open space!! :)**
 
-![image](https://github.com/unknownsfrance/TweetSong/blob/master/assets/tweetsong.jpg =800x)
+![image](https://github.com/unknownsfrance/TweetSong/blob/master/assets/tweetsong.jpg)
 
 
 ## Requirement 
