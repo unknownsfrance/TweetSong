@@ -51,7 +51,7 @@ The script will ask you to enter all the information it needs to work, that is t
 
 The terminal window should look like the following:
 
-![image](https://github.com/unknownsfrance/TweetSong/blob/master/assets/console.png =800x)
+![image](https://github.com/unknownsfrance/TweetSong/blob/master/assets/console.png)
 
 
 
